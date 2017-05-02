@@ -1,8 +1,8 @@
-# Basic Project
-## Basic Project Structure
+# Fundamental Project
+## Core Lesson on Fudamental Project Structure
 
-*Default Structure for A Basic Project*
-
+*Default Structure for A Fundamental Project*
+* Project which focusses on core java concepts*
 **Java 8**
 
 * Maven
